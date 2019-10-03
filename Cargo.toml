@@ -1,0 +1,9 @@
+[package]
+name = "axie"
+version = "0.1.0"
+authors = ["Alexis Lozano <alexis.pascal.lozano@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.0"
+image = "0.22.2"
